@@ -1,3 +1,6 @@
+# Project moved
+This project has moved to https://github.com/RustLight/sacn
+
 # Rust sACN implementation
 
 [![Join the chat at https://gitter.im/rust_sacn/Lobby](https://badges.gitter.im/rust_sacn/Lobby.svg)](https://gitter.im/rust_sacn/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
